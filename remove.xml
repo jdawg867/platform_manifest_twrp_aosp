@@ -56,7 +56,7 @@
 
   <remove-project name="platform/external/bouncycastle"/>
 
-  <remove-project name="platform/hardware/google/pixel-sepolicy" />
+  <!--remove-project name="platform/hardware/google/pixel-sepolicy" /-->
   <remove-project name="platform/hardware/qcom/audio" />
   <remove-project name="platform/hardware/qcom/camera" />
   <remove-project name="platform/hardware/qcom/data/ipacfg-mgr" />
